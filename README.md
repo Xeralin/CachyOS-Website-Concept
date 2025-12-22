@@ -1,4 +1,5 @@
 # CachyOS-Website-Design-Concept-
 
-Add an css, js and lang folder and put the files in there.
+Add a css, js, and lang folder and place the files there.
+
 Here is a Preview: https://www.youtube.com/watch?v=uYJdMwquB6M
