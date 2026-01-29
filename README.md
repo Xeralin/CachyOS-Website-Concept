@@ -1,10 +1,10 @@
 # CachyOS-Website-Design-Concept
 
 Create these folders:
-img (with all .png files)
-css (with all css files)
-js (with all js files)
-lang (with all .json files)
+- img (with all .png files)
+- css (with all css files)
+- js (with all js files)
+- lang (with all .json files)
 
 All .html files remain in the main directory.
 I'm new to GitHub, I don't know how to create folders here.
