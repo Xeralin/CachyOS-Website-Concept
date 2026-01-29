@@ -9,4 +9,5 @@ Create these folders:
 All .html files remain in the main directory.
 I'm new to GitHub, I don't know how to create folders here.
 
+I didn't use AI, but I made an exception for the language system (German and English) and code formatting. 
 Here is a Preview: https://www.youtube.com/watch?v=uYJdMwquB6M
