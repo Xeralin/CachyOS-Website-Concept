@@ -1,5 +1,5 @@
 # CachyOS-Website-Design-Concept
-
+## To try it out, I recommend the Five-Server (Live Server) extension in VS Code.
 Create these folders:
 - img (with all .png files)
 - css (with all css files)
