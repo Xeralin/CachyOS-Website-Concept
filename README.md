@@ -1,6 +1,9 @@
-## CachyOS-Website-Design-Concept
-### To try it out, I recommend the Five-Server (Live Server) extension in VS Code.
-Create these folders:
+# Website Design Concept for CachyOS
+To try it out, I recommend the Five-Server (Live Server) extension in VS Code.
+
+![Screensot](https://github.com/Xeralin/CachyOS-Concept/blob/main/Cover.png)
+
+### Create these folders
 - img (with all .png files)
 - css (with all css files)
 - js (with all js files)
