@@ -3,4 +3,4 @@ To try it out, I recommend installing the Five-Server (Live Server) extension in
 
 ![Screensot](https://github.com/Xeralin/CachyOS-Concept/blob/main/Cover.png)
 
-Btw, it was vibe coded, but i put a lot of effort and time into it :)
+Btw it was vibe coded, but i put a lot of effort and time into it :)
